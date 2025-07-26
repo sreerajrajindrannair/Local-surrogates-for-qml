@@ -1,6 +1,6 @@
 # Local-surrogates-for-qml
 
-Repository for generating the figures for the paper: "Local surrogates for quantum machine learning models"
+Repository for generating the figures for the paper: "Local surrogates for quantum machine learning models". Link: https://arxiv.org/abs/2506.09425
 
 Authors: Sreeraj Rajindran Nair and Christopher Ferrie
 
